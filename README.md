@@ -17,6 +17,11 @@
 <a href="https://manas-dewari.netlify.app/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="40"></a>
 <a href="https://twitter.com/manasdewari04" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="40"></a>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manassinghdewari&show_icons=true&locale=en" alt="manassinghdewari" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manassinghdewari&show_icons=true&locale=en" alt="manassinghdewari" /></p>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manassinghdewari&show_icons=true&locale=en&layout=compact" alt="manassinghdewari" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manassinghdewari&show_icons=true&locale=en&layout=compact" alt="manassinghdewari" /></p> -->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=manassinghdewari&show_icons=true&theme=radical&count_private=true&border_radius=50)<br/> 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manassinghdewari&langs_count=8&layout=compact&border_radius=40&theme=radical&length=80)](https://github.com/manassinghdewari/github-readme-stats)
