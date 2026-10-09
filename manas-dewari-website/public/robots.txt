@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+Sitemap: https://manas-dewari-founder.manas981383.chatgpt.site/sitemap.xml
