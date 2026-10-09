@@ -1,20 +1,53 @@
-# Manas Dewari landing website
-Next.js TypeScript application with a static export for Netlify. Run pnpm build to generate out/ and pnpm start to preview it. See GETTING_STARTED.md for deployment instructions. Tailwind CSS and server-rendered public content. See app/content.ts to edit service/work content; app/page.tsx for sections; app/globals.css for responsive styles.
+# Hi, I'm Manas Dewari 👋
 
-Calendly uses the official inline embed loaded only after clicking Choose a time. The direct Calendly link remains available without JavaScript.
+### Co-founder & CTO @ [Zryth Solutions Pvt. Ltd.](https://zryth.com)
 
-## Remaining owner inputs
-- LinkedIn URL and professional email.
-- User-supplied portrait added to About with responsive WebP images.
-- Approved case study outcomes and client permission before publishing results.
-- Preferred public domain. Update origin in app/content.ts, sitemap.xml and robots.txt when changed.
+**Building intelligent software, AI-powered solutions, and scalable systems that solve real business problems.**
 
-## Analytics
-No analytics or invasive tracking installed. Delegated click events dispatch site:conversion with {name}; optional window.gtag receives the same event when a consent-managed GA4 integration is configured. Search Console verification and GA4 require the owner's property/measurement IDs. Do not add tracking without the appropriate consent flow.
+I'm a technology entrepreneur and software engineer with a strong interest in product engineering, Artificial Intelligence, business automation, and enterprise software.
 
-## Future content
-services and work arrays are separate from rendering. Add approved case studies there. Create app/insights/page.tsx and content entries when actual articles exist; no empty section is shown today.
+At **Zryth Solutions**, I lead technology strategy, product development, and engineering execution. My work involves translating complex business challenges into practical, reliable, and scalable technology solutions.
 
-## Verification boundaries
-Production build and TypeScript checks are required. Browser, Lighthouse and live third-party/mobile Calendly tests must be completed in an environment with browser QA access. Static CSS alone is not proof of actual device behavior. Public visitor access is enabled. No application sign-in is required. Search Console submission can be configured by the owner.
+### 🚀 What I'm Working On
 
+- **AI & Agentic Systems** — Building intelligent agents, AI-powered workflows, and business automation solutions.
+- **Enterprise Software** — Developing systems for manufacturing, finance, education, and business operations.
+- **Product Engineering** — Taking products from initial ideas and MVPs to production-ready solutions.
+- **System Integrations** — Connecting enterprise applications, APIs, accounting systems, and operational workflows.
+- **Engineering Leadership** — Building teams, improving development processes, and establishing scalable engineering practices.
+
+### 💡 Areas of Interest
+
+- Artificial Intelligence & Agentic AI
+- Software Architecture & System Design
+- Full-Stack Development
+- Workflow Automation & API Integrations
+- SaaS & Enterprise Applications
+- Product Strategy & Engineering Leadership
+- Open Source & Developer Tools
+
+### 🏢 What We're Building at Zryth
+
+At Zryth, we work with businesses to simplify complex operations through software and intelligent automation.
+
+Our experience spans:
+
+- **Manufacturing:** Operational workflows, document processing, and process automation.
+- **Finance:** Accounting integrations, reconciliation, compliance workflows, and financial automation.
+- **Education:** Learning management systems, assessment platforms, and adaptive learning.
+- **Enterprise Operations:** Custom ERP solutions, dashboards, and workflow management.
+
+🌐 [Explore Zryth](https://zryth.com) | [Our Solutions](https://zryth.com/products)
+
+### 🤝 Let's Connect
+
+I'm always interested in connecting with founders, engineers, technology leaders, and businesses exploring how software and AI can solve meaningful problems.
+
+- 🌐 **Company:** https://zryth.com
+- 📅 **Schedule a Conversation:** https://calendly.com/manas-zryth
+- 💼 **LinkedIn:** Add your profile URL
+- 💻 **GitHub:** Add your GitHub username
+
+---
+
+*Building technology with a focus on real-world impact, reliability, and long-term value.*
